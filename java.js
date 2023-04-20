@@ -1,11 +1,5 @@
 var pontuação = document.getElementById('pontuação')
 
-function X() {
-
-    pontuação = (pontuação-1)
-    console.log(pontuação)
-}
-
 function A() {
 
     pontuação = (pontuação+1)
